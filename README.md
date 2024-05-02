@@ -1,17 +1,15 @@
-### Hi there 👋
+<a href="https://discord.com/users/404844681852223498"><img align="left" src="https://lanyard.cnrad.dev/api/404844681852223498?borderRadius=8px&hideDiscrim=true&animated=true&idleMessage=Probably%20doing%20something%20else..."/></a>
 
+## 📋 Olá!
+
+Atualmente aluno de Análise e Desenvolvimento de Sistemas com paixão por design e desenvolvimento front-end. Adoro música e arte, e tento trazer isto para tudo que faço. 🎭🎨
+<br><br>
 ![](https://komarev.com/ghpvc/?username=LKaio16&style=for-the-badge&color=blueviolet)
-<!--
-**LKaio16/LKaio16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+<br>
+![React](https://img.shields.io/badge/react-%2323272F.svg?style=flat&logo=react&logoColor=%23149ECA) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
-Here are some ideas to get you started:
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C55EFF&random=false&width=435&lines=Discord%3A+lkaio16;Ol%C3%A1!" alt="Typing SVG" /> --!>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
