@@ -1,4 +1,4 @@
-## 👋 Bem vindo! <br>
+# 👋 Bem vindo! <br>
 <a href="https://discord.com/users/404844681852223498"><img align="left" src="https://lanyard.cnrad.dev/api/404844681852223498?borderRadius=8px&hideDiscrim=true&animated=true&idleMessage=Probably%20doing%20something%20else..."/></a>
 
 
