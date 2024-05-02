@@ -1,9 +1,10 @@
 ## 👋 Bem vindo!
 <a href="https://discord.com/users/404844681852223498"><img align="left" src="https://lanyard.cnrad.dev/api/404844681852223498?borderRadius=8px&hideDiscrim=true&animated=true&idleMessage=Probably%20doing%20something%20else..."/></a>
 
+
 ### 📋 **Sobre mim**
 
-Atualmente aluno de Análise e Desenvolvimento de Sistemas com paixão por design e desenvolvimento front-end. Adoro música e arte, e tento trazer isto para tudo que faço. 🎭🎨
+Atualmente sou aluno de Análise e Desenvolvimento de Sistemas, voltado para área de design e desenvolvimento front-end. Adoro música e arte, e sempre tento incorporar essa paixão em tudo que faço. 🎭🎨
 <br><br>
 ![](https://komarev.com/ghpvc/?username=LKaio16&style=for-the-badge&color=blueviolet)
 <br><br><br><br>
