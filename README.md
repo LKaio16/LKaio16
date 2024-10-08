@@ -4,9 +4,9 @@
 
 ### 📋 **Sobre mim**
 
-<samp>
+
 Atualmente aluno de Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza, com foco em design e desenvolvimento front-end e Android. Tenho grande apreciação por arte, buscando sempre integrar essa paixões em meus projetos. 🎭🎨
-</samp>
+
 
 
 <br><br>
