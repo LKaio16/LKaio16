@@ -4,7 +4,7 @@
 
 ### 📋 **Sobre mim**
 
-Atualmente sou aluno de Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza, voltado para área de design e desenvolvimento front-end. Adoro música e arte, e sempre tento incorporar essa paixão em tudo que faço. 🎭🎨
+Atualmente aluno de Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza, com foco em design e desenvolvimento front-end e Android. Tenho uma forte apreciação por música e arte, buscando sempre integrar essas paixões em meus projetos. 🎭🎨
 <br><br>
 ![](https://komarev.com/ghpvc/?username=LKaio16&style=for-the-badge&color=blueviolet)
 <br><br><br>
